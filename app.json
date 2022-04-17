@@ -5,7 +5,7 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/Createworld04/cwdown2.0",
+    "repository": "https://github.com/Createworld04/xyzz",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -47,16 +47,6 @@
 
         }
 
-    },
-
-    "buildpacks": [
-
-        {
-
-            "url": "heroku/python"
-
-        }
-
-    ]
+    }
 
 }
